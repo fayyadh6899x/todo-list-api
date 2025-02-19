@@ -1,4 +1,4 @@
-# API Manajemen To-Do List
+# API To-Do List Manajemen Media Sosial 
 
 API CRUD untuk mengelola daftar tugas postingan di media sosial. API ini dibangun menggunakan **Laravel 10** dan dilengkapi dengan **dokumentasi Swagger**.
 
