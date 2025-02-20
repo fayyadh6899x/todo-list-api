@@ -9,8 +9,7 @@ use OpenApi\Annotations as OA;
 
 /**
  * @OA\Info(
- *     title="API To-Do List Management",
- *     version="1.0",
+ *     title="API To-Do List Social Media Management",
  *     description="Dokumentasi API untuk manajemen to-do list di media sosial."
  * )
  *
