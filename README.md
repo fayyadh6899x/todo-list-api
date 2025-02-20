@@ -60,10 +60,10 @@ Aplikasi API sekarang berjalan di `http://127.0.0.1:8000`.
 
 ### Base URL: `http://127.0.0.1:8000/api`
 
-Metode = GET | Endpoint = '/tasks' | Mendapatkan semua item tugas yang ada |
-Metode = GET | Endpoint = '/tasks{id}' | Mendapatkan semua item tugas tertentu |
-Metode = POST | Endpoint = '/tasks' | Membuat item tugas terbaru |
-Metode = PUT | Endpoint = '/tasks{id}' | Memperbarui tugas tertentu |
+Metode = GET | Endpoint = '/tasks' | Mendapatkan semua item tugas yang ada |,
+Metode = GET | Endpoint = '/tasks{id}' | Mendapatkan semua item tugas tertentu |,
+Metode = POST | Endpoint = '/tasks' | Membuat item tugas terbaru |,
+Metode = PUT | Endpoint = '/tasks{id}' | Memperbarui tugas tertentu |,
 Metode = DELETE | Endpoint = '/tasks{id}' | Menghapus tugas tertentu |
 
 ### Contoh Permintaan (Membuat Item Tugas)
